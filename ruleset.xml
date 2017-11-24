@@ -1,3 +1,3 @@
- <rulesets>
-   <ruleset>${basedir}/pmd-config/ruleset.xml</ruleset>
- </rulesets>
+<rulesets>
+  <rule ref="pmd-config/ruleset.xml"/>
+</rulesets>
