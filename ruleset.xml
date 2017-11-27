@@ -1,3 +1,2 @@
-<rulesets>
-  <rule ref="pmd-config/ruleset.xml"/>
-</rulesets>
+<ruleset ref="./pmd-config/ruleset.xml"/>
+
