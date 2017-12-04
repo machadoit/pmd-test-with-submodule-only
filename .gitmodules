@@ -1,3 +1,0 @@
-[submodule "pmd-config"]
-	path = pmd-config
-	url = https://github.com/machadoit/pmd-config.git
